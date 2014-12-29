@@ -1,4 +1,4 @@
-title = "The First Test"
+title = "The Kevin Test"
 directions = "sit back and relax a while"
 
 """attempting to run simple functions in command prompt"""
